@@ -1,0 +1,36 @@
+.contactos{
+    border: 6px solid #8207DB;
+    width: 45%;
+    float: left;
+    border-radius: 20px;
+    background: #193CB8;
+    margin: 10px;
+}
+
+.servicios{
+    border:4px dashed #6E6E63;
+    float:left ;
+    background:#C7C7C1;
+    width:30% ;
+    margin:10px ;
+
+height:475PX;
+
+
+}
+
+.header{
+    background-color: #1FB249;
+    border-botton: 10px solid #2AD5C4;
+    padding: 10px 20px;
+}
+
+.header-container{
+    display: felex;
+    justify-content: space-between;
+    align-items: center;
+    morging: 0 auto;
+}
+
+ 
+  
